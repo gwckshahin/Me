@@ -60,6 +60,41 @@ My full name is Katherine Lynette Shahin. I was born on October 5th of 1999. I o
 	
 </body>
 
+h1{
+	color:black;
+	text-align:center;
+	font-family: monospace;
+}
+body {
+    background-color: grey;
+	background-image: url("http://www.guideforschool.com/wp-content/uploads/2015/02/Pale-Yellow-Background.jpg");
+}
+p{	
+	color: black;
+	border-style: double;
+	border-color:black;
+}
+h2{
+	color: ;
+	font-family: monospace;
+
+}
+
+
+ul{
+	color:black;
+}
+
+ol{
+	color:black;
+}
+
+div{ margin-right: 100px;
+	
+	
+	
+	
+
 
 
 
